@@ -12,3 +12,4 @@
 // all the first elements in each row, then second, then third.
 // Each box of 9 numbers (3x3) needs to be checked (I ran out of time here)
 
+[Repl of code](https://repl.it/@bld010/Sudoku-Code-Challenge)
